@@ -2,6 +2,7 @@
 
 Dates: 08/26/2024 to 08/30/2024
 
+2024-08-26  
 This is school day: 1  
 This is cycle day: 1  
 Specials: Technology ED (Headphones)  
